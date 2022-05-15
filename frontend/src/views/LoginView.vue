@@ -27,6 +27,10 @@ body {
   padding:0;
   font-family: "Fjalla One", sans-serif;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91a918b (Añadida vista de login)
 .login-box {
   position: absolute;
   top: 50%;
@@ -39,15 +43,27 @@ body {
   box-shadow: 0 15px 25px rgba(0,0,0,.6);
   border-radius: 10px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91a918b (Añadida vista de login)
 .login-box h2 {
   margin: 0 0 30px;
   padding: 0;
   color: #fff;
   text-align: center;
 }
+<<<<<<< HEAD
 .login-box .user-box {
   position: relative;
 }
+=======
+
+.login-box .user-box {
+  position: relative;
+}
+
+>>>>>>> 91a918b (Añadida vista de login)
 .login-box .user-box input {
   width: 100%;
   padding: 10px 0;
@@ -69,6 +85,10 @@ body {
   pointer-events: none;
   transition: .5s;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91a918b (Añadida vista de login)
 .login-box .user-box input:focus ~ label,
 .login-box .user-box input:valid ~ label {
   top: -20px;
@@ -76,6 +96,10 @@ body {
   color: #03e9f4;
   font-size: 12px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91a918b (Añadida vista de login)
 .login-box form a {
   position: relative;
   display: inline-block;
@@ -89,15 +113,29 @@ body {
   margin-top: 40px;
   letter-spacing: 4px
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91a918b (Añadida vista de login)
 .login-box a:hover {
   background: #03e9f4;
   color: #fff;
   border-radius: 5px;
+<<<<<<< HEAD
 }
+=======
+
+}
+
+>>>>>>> 91a918b (Añadida vista de login)
 .login-box a span {
   position: absolute;
   display: block;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91a918b (Añadida vista de login)
 .login-box a span:nth-child(1) {
   top: 0;
   left: -100%;
@@ -106,6 +144,10 @@ body {
   background: linear-gradient(90deg, transparent, #03e9f4);
   animation: btn-anim1 1s linear infinite;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91a918b (Añadida vista de login)
 @keyframes btn-anim1 {
   0% {
     left: -100%;
@@ -114,6 +156,10 @@ body {
     left: 100%;
   }
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91a918b (Añadida vista de login)
 .login-box a span:nth-child(2) {
   top: -100%;
   right: 0;
@@ -123,6 +169,10 @@ body {
   animation: btn-anim2 1s linear infinite;
   animation-delay: .25s
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91a918b (Añadida vista de login)
 @keyframes btn-anim2 {
   0% {
     top: -100%;
@@ -131,6 +181,10 @@ body {
     top: 100%;
   }
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91a918b (Añadida vista de login)
 .login-box a span:nth-child(3) {
   bottom: 0;
   right: -100%;
@@ -140,6 +194,10 @@ body {
   animation: btn-anim3 1s linear infinite;
   animation-delay: .5s
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91a918b (Añadida vista de login)
 @keyframes btn-anim3 {
   0% {
     right: -100%;
@@ -148,6 +206,10 @@ body {
     right: 100%;
   }
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91a918b (Añadida vista de login)
 .login-box a span:nth-child(4) {
   bottom: -100%;
   left: 0;
@@ -157,6 +219,10 @@ body {
   animation: btn-anim4 1s linear infinite;
   animation-delay: .75s
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91a918b (Añadida vista de login)
 @keyframes btn-anim4 {
   0% {
     bottom: -100%;
@@ -165,4 +231,8 @@ body {
     bottom: 100%;
   }
 }
+<<<<<<< HEAD
 </style>  
+=======
+</style>
+>>>>>>> 91a918b (Añadida vista de login)

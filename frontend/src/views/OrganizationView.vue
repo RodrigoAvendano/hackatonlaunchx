@@ -68,6 +68,10 @@ p {
   margin-left: auto;
   margin-top: 15%;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91a918b (Añadida vista de login)
 @media (max-width: 858px) {
   .image {
     width: 60%;
@@ -91,4 +95,8 @@ p {
     margin: 10px auto;
   }
 }
+<<<<<<< HEAD
 </style>  
+=======
+</style>
+>>>>>>> 91a918b (Añadida vista de login)
