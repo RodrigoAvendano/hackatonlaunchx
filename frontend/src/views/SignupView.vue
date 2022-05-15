@@ -57,7 +57,7 @@
         <span></span>
         <span></span>
         <span></span>
-        Iniciar Sesión
+        Registrarse
       </a>
     </form>
   </div>
